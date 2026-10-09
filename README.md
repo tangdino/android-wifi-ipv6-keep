@@ -1,5 +1,7 @@
 # android-wifi-ipv6-keep
 
+[中文说明 / Chinese documentation → README_CN.md](README_CN.md)
+
 Adaptive IPv6 **default-route fallback** guard for **rooted Android**.
 
 Keeps Wi-Fi IPv6 usable when the RA (Router Advertisement) default route
